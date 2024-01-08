@@ -3,6 +3,8 @@ This repo is home to an example interactive map made with RShiny and leaflet.
 
 The example plots [CEH Land Cover] as extracted on a 25km grid across Great Britain. As you zoom into the map, the plot on the right will update based on the observations still in view. If you click on any of the points, information about the location will appear as a popup.
 
+![alt text][map]
+
 Made by [Pia Benaud] it is a simplified and updated version of [SoilErosionMap] shinyapp made in support of the publication by [Benaud et al. (2020)] *National-scale geodata describe widespread accelerated soil erosion.* 
 
 The original code drew inspiration from the Rshiny [Superzip] example.
@@ -21,6 +23,8 @@ A shiny app has 3 components:
 * app.R brings all this together - it is the only script you need to run all of the code in this script to make the app work.
 
 
+
+[map]: Map.png
 [CEH Land Cover]: https://doi.org/10.5285/A22BAA7C-5809-4A02-87E0-3CF87D4E223A
 [Pia Benaud]: http://geography.exeter.ac.uk/staff/index.php?web_id=Pia_Benaud
 [SoilErosionMap]: https://piabenaud.shinyapps.io/SoilErosionMap
