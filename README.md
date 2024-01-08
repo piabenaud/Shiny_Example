@@ -1,7 +1,7 @@
 # Shiny_Example
 This repo is home to an example interactive map made with RShiny and leaflet.
 
-The example plots [CEH Land Cover] as extracted on a 25km grid across Great Britain.
+The example plots [CEH Land Cover] as extracted on a 25km grid across Great Britain. As you zoom into the map, the plot on the right will update based on the observations still in view.
 
 Made by [Pia Benaud] it is a simplified and updated version of [SoilErosionMap] shinyapp made in support of the publication by [Benaud et al. (2020)] *National-scale geodata describe widespread accelerated soil erosion.* 
 
