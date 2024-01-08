@@ -12,7 +12,7 @@ library(sf) # for dealing with vector data
 library(terra) # for dealing with raster data
 
 library(rnaturalearth) # contains vector country and other administrative boundaries
-library(viridis)
+
 
 # Import a UK boundary ----------------------------------------------------
 

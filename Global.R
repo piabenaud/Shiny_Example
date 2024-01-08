@@ -32,6 +32,7 @@ point_vars <- c("Default" = "Default",
 
 
 # Make a consistent colour palette ----------------------------------------
+# library(viridis)
 #sample(viridis(21)) # lets get some colours
 
 colour_pal <- c("Deciduous woodland" = "#21908CFF", 
