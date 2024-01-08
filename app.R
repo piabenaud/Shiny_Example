@@ -10,10 +10,8 @@
 library(shiny)
 library(leaflet)
 library(tidyverse)
-library(RColorBrewer)
 
 library(sf) # for dealing with vectors
-
 
 
 # Run global script -------------------------------------------------------
