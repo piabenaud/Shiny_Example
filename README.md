@@ -20,7 +20,7 @@ Background.R was written to make a geopackage containing extracted landcover dat
 A shiny app has 3 components:
 * UI.R which defines the user interface (it's an object)
 * Server.R contains the components needed to make the app - some of these are reactive
-* app.R brings all this together - it is the only script you need to run all of the code in this script to make the app work.
+* app.R brings all this together - it is the only script you need to run the app work, simply run all of the code in script!
 
 
 
