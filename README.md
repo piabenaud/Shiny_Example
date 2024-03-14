@@ -15,7 +15,7 @@ Follow these links to learn more about [R Shiny] and how it can be integrated wi
 
 ### About the scripts
 
-Background.R was written to make a geopackage containing extracted landcover data for a 25 km grid.
+Background.R was written to make a geopackage containing extracted landcover data for a 25 km grid, demostrating the extraction of information from raster data.
 
 A shiny app has 3 components:
 * UI.R which defines the user interface (it's an object)
